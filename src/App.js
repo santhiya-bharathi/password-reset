@@ -75,7 +75,7 @@ const history = useHistory();
 function Home(){
   return(
     <div>
-      hello
+      <h1>welcome</h1>
     </div>
   );
 }
